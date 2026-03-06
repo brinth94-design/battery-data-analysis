@@ -28,4 +28,6 @@ time,voltage,current,soc
 ## Run the Script
 
 Install dependencies:
-
+pip install pandas matplotlib
+Run the script:
+python battery_analysis.py
