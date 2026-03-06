@@ -1,0 +1,4 @@
+Datei requirements.txt
+pandas
+matplotlib
+numpy
